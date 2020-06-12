@@ -17,4 +17,4 @@ Make sure to install inside a custom environment to avoid hassles later (totally
 ```
 streamlit run <model-name>.py
 ```
-Streamlit — The fastest way to build custom ML tools
+**Streamlit — The fastest way to build custom ML tools**

@@ -19,8 +19,8 @@ streamlit run <model-name>.py
 ```
 
 ## Projects:
-* [Iris Dataset Predictor](./Iris-ml-streamlit.py)
-* [Sentiment Analysis with Emojis](./SentimentAnalysis-Emoji.py)
+* [Iris Dataset Predictor](./IrisPredictor.py)
+* [Sentiment Analysis with Emojis](./SentimentEmoji.py)
 
 ## Contribution
 Feel like you want to add to this repository and learn? Fork and send a Pull request my way! for any clarification refer to the documentation [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).

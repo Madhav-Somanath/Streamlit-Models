@@ -17,4 +17,9 @@ Make sure to install inside a custom environment to avoid hassles later (totally
 ```
 streamlit run <model-name>.py
 ```
+
+## Projects:
+* [Iris Dataset Predictor](./Iris-ml-streamlit.py)
+* [Sentiment Analysis with Emojis](./SentimentAnalysis-Emoji.py)
+
 **Streamlit — The fastest way to build custom ML tools**

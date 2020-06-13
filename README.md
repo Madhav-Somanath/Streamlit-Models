@@ -1,4 +1,4 @@
-# Streamlit-Models
+# Streamlit Models
 A repository to hold all Machine Learning models deployed using Streamlit.
 
 ## What is Streamlit?
@@ -21,5 +21,8 @@ streamlit run <model-name>.py
 ## Projects:
 * [Iris Dataset Predictor](./Iris-ml-streamlit.py)
 * [Sentiment Analysis with Emojis](./SentimentAnalysis-Emoji.py)
+
+## Contribution
+Feel like you want to add to this repository and learn? Fork and send a Pull request my way! for any clarification refer to the documentation [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 **Streamlit — The fastest way to build custom ML tools**

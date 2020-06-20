@@ -11,6 +11,12 @@ To proceed with this project you need to install Streamlit, check it out [here](
 ```
 pip3 install streamlit
 ```
+
+or install the requirement with the following command:
+```
+pip install -r requirements.txt
+```
+
 Make sure to install inside a custom environment to avoid hassles later (totally happened to me)
 
 #### Deploying the model

@@ -21,7 +21,7 @@ streamlit run <model-name>.py
 ## Projects:
 * [Iris Dataset Predictor](./Models/IrisPredictor.py)
 * [Sentiment Analysis with Emojis](./Models/SentimentEmoji.py)
-- [Auto Exploratory Data Analysis and Plotting](./Models/AutoEDA-Plots.py)
+* [Auto Exploratory Data Analysis and Plotting](./Models/AutoEDA-Plots.py)
 
 ## Contribution
 Feel like you want to add to this repository and learn? Fork and send a Pull request my way! for any clarification refer to the documentation [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
